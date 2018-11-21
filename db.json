@@ -1,8 +1,8 @@
 {
-	"posts": [
-	{
-		"nombre": "angel"
-	}
-	]
-
+  "nombreEncuesta": "Encuesta nro5",
+  "preguntaRespuesta": [
+    { "pregunta": "una pregunta1", "respuesta": "una respuesta1" },
+    { "pregunta": "2dapregunta", "respuesta": "asdfasd 2" },
+    { "pregunta": "3asddapregunta", "respuesta": "nnnn" }
+  ]
 }
